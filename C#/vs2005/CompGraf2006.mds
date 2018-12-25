@@ -1,0 +1,16 @@
+<Combine name="CompGraf2006" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="CompGraf2006" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="CompGraf2006" configuration="Debug" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="CompGraf2006" single="True">
+    <Execute type="None" entry="CompGraf2006" />
+  </StartMode>
+  <Entries>
+    <Entry filename="./CompGraf2006.mdp" />
+  </Entries>
+</Combine>

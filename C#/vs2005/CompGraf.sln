@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompGraf", "CompGraf.csproj", "{EF2F1E19-A7EB-451C-B902-8632211BF438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2F1E19-A7EB-451C-B902-8632211BF438}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{EF2F1E19-A7EB-451C-B902-8632211BF438}.Debug|Default.Build.0 = Debug|Any CPU
+		{EF2F1E19-A7EB-451C-B902-8632211BF438}.Release|Default.ActiveCfg = Release|Any CPU
+		{EF2F1E19-A7EB-451C-B902-8632211BF438}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
